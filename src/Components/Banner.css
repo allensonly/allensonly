@@ -1,0 +1,27 @@
+.banner-content{
+    padding-left: 3rem;
+    padding-top: 300px;
+    padding-right: 45rem;
+    
+
+}
+
+.btn{
+   background-color: red; 
+  border-radius: 40px;
+ padding: 10px 50px;
+  font-size: large;
+  border: none;
+  font-weight: bold;
+  color: white;
+  margin-right: 20px;
+}
+.buton{
+    background-color : black; 
+    border-radius: 40px;
+   padding: 10px 30px;
+    font-size: large;
+    border: none;
+    font-weight: bold;
+    color: white;
+}

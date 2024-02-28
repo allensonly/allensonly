@@ -1,0 +1,24 @@
+.row{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    background-color: black;
+}
+::-webkit-scrollbar{
+    display: none;
+}
+.movierow{
+    display: flex;
+    overflow-x: scroll;
+    margin-top: 20px;
+    background-color: black;
+}
+.movies{
+    width: 100%;
+    object-fit: contain;
+    margin-right: 20px;
+    transition: 460ms;
+    height: 200px;
+}
+.movies:hover{
+    transform: scale(1.06);
+}
